@@ -1,10 +1,10 @@
-# 🧪 NullDepot
+#  NullDepot
 
 **NullDepot** is a collaborative platform where scientists and researchers can **document failed experiments**, allowing others to learn from past mistakes and avoid repeating them — saving **time, money, and resources**.
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 In traditional scientific publishing, **failed experiments are rarely shared**, even though they contain crucial insights.  
 This leads to:
@@ -15,7 +15,7 @@ This leads to:
 
 ---
 
-## 💡 Solution
+##  Solution
 
 **NullDepot** acts as a public repository of failed experiments where:
 - Researchers can **submit failed experiments**
@@ -24,19 +24,19 @@ This leads to:
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 Researcher authentication
-- 📝 Submit failed experiment reports
-- 🔍 Search and browse experiments
-- 🧠 Structured experiment documentation
-- 👁️ Public access to shared failures
-- 💬 Optional discussion and insights
-- 🛡️ Ethical and responsible data sharing
+-  Researcher authentication
+-  Submit failed experiment reports
+-  Search and browse experiments
+-  Structured experiment documentation
+-  Public access to shared failures
+-  Optional discussion and insights
+-  Ethical and responsible data sharing
 
 ---
 
-## 🧠 Experiment Report Includes
+## Experiment Report Includes
 
 - Experiment title  
 - Field of study  
@@ -49,7 +49,7 @@ This leads to:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Django  
@@ -59,5 +59,5 @@ This leads to:
 
 ---
 
-## 📂 Project Structure
+
 
